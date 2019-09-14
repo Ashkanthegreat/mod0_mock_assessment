@@ -1,6 +1,12 @@
 Doing Laundry
 
 1.Get dirty clothes
+  1.1 Walk to bedroom
+  1.2 Make sure all dirty clothes are in hamper
+    1.2.1 Pick up dirty clothes from floor
+    1.2.2 Put dirty clothes in hamper
+  1.3 Grab hamper
+  1.4 Carry hamper to the washer
 2.Wash clothes
 3.Dry clothes
 4.Fold clothes
