@@ -8,6 +8,24 @@ Doing Laundry
   1.3 Grab hamper
   1.4 Carry hamper to the washer
 2.Wash clothes
+  2.1 Separate like color clothes
+    2.1.1 Put white clothes in a pile
+    2.1.2 Put light color clothes in a pile
+    2.1.3 Put dark color clothes in a pile
+  2.2 Add detergent to washer
+    2.2.1 Grab detergent bottle
+    2.2.2 Unscrew bottle cap
+    2.2.3 Pour detergent into bottle cap
+    2.2.4 Use bottle cap to measure detergent
+    2.2.5 Pour measured amount of detergent into washer
+  2.3 Start washer
+    2.3.1 Choose washer setting to match clothes to be washed
+    2.3.2 Press "Start" button on washer
+  2.4 Add like color clothes to washer
+    2.4.1 Pick up pile of clothes that match washer setting in step 2.3.1
+    2.4.2 Put clothes in washer
+    2.4.3 Clothes washer lid
+    2.4.4 Wait until washing is complete
 3.Dry clothes
-4.Fold clothes
+4.Fold/Roll clothes
 5.Put clothes away
