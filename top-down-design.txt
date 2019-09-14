@@ -27,5 +27,18 @@ Doing Laundry
     2.4.3 Clothes washer lid
     2.4.4 Wait until washing is complete
 3.Dry clothes
+  3.1 Grab clothes from washer
+    3.1.1 Open washer lid
+    3.1.2 Pull clothes out of washer
+  3.2 Put clothes in dryer
+    3.2.1 Open dryer door
+    3.2.2 Put clothes in dryer
+    3.2.3 Add dryer sheet to clothes in dryer
+    3.2.4 Close dryer door
+  3.3 Start dryer
+    3.3.1 Choose setting on dryer to match clothes
+    3.3.2 Choose amount of time for clothes to be dried
+    3.3.3 Press "Start" button on dryer
+    3.3.4 Wait until dryer is finished drying
 4.Fold/Roll clothes
 5.Put clothes away
