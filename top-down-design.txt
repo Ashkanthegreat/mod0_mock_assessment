@@ -53,3 +53,11 @@ Doing Laundry
     4.2.4 Roll clothing item into a tube shape
     4.2.5 Set clothing item aside in a pile
 5.Put clothes away
+  5.1 Separate clothes by type
+    5.1.1 Put all t-shirts in a pile
+    5.1.2 Put all jeans in a pile
+    5.1.3 Put all socks and underwear in a pile
+  5.2 Put clothes in appropriate drawer
+    5.2.1 Open drawers on dresser
+    5.2.2 Put each clothing item in corresponding drawers
+    5.2.3 Close dresser drawers
