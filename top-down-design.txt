@@ -41,4 +41,15 @@ Doing Laundry
     3.3.3 Press "Start" button on dryer
     3.3.4 Wait until dryer is finished drying
 4.Fold/Roll clothes
+  4.1 Take clothes out of dryer
+    4.1.1 Open dryer door
+    4.1.2 Take clothes out of dryer
+    4.1.3 Carry clothes to bedroom
+    4.1.4 Put clothes on bed
+  4.2 Fold and roll clothes
+    4.2.1 Grab each piece of clothing individually
+    4.2.2 Use hand to push out wrinkles
+    4.2.3 Fold clothing item in half
+    4.2.4 Roll clothing item into a tube shape
+    4.2.5 Set clothing item aside in a pile
 5.Put clothes away
