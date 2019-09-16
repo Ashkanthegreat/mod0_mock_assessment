@@ -1,7 +1,12 @@
-Each child (class) has hair, eyes, hands, arms, legs, and feet (attributes).
+Attributes:
+hairLength (integer)
+hands (string)
+feet (string)
+fingerNailsLength (integer)
+eyesight (integer)
 
 Methods:
-cut_hair (modifies the hair attribute)
-put_gloves_on (modifies the hand attribute)
-put_shoes_on (modifies the feet attribute)
-perform_lasik (modifies the eyes attribute)
+cutHair (reduces the hairLength attribute by 1)
+putGlovesOn (append gloves onto the hands attribute)
+putShoesOn (append shoes onto the feet attribute)
+performLasik (changes the eyesight attribute)
