@@ -1,1 +1,7 @@
 Each child (class) has hair, eyes, hands, arms, legs, and feet (attributes).
+
+Methods:
+cut_hair (modifies the hair attribute)
+put_gloves_on (modifies the hand attribute)
+put_shoes_on (modifies the feet attribute)
+perform_lasik (modifies the eyes attribute)
