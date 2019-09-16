@@ -1,0 +1,7 @@
+Object: Preteen
+
+Attributes:
+age: 9-12
+
+Object:
+age: 1-3
